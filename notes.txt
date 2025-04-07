@@ -1,0 +1,16 @@
+
+	+----------------------------------------------------------------------------------------------------------------------------+
+	|                                                            NOTES                                                           |
+	+----------------------------------------------------------------------------------------------------------------------------+
+	| This is a "one and done" pack of flags that isn't likely to be expanded.                                                   |
+	+----------------------------------------------------------------------------------------------------------------------------+
+	| The emblems are mostly from Ace Combat, Project Wingman, Elite: Dangerous, and Mobile Suit Gundam: The Witch from Mercury. |
+	+----------------------------------------------------------------------------------------------------------------------------+
+	| In game, the images sometimes have a bleeding effect at the edges. It's present in vanilla flags, too.                     |
+	+----------------------------------------------------------------------------------------------------------------------------+
+	| There's an optional folder with replacements for the vanilla Independent, Pirate, and Neutral flags.                       |
+	+----------------------------------------------------------------------------------------------------------------------------+
+	| If you want to use the optinal flags, drag the "factions" into the main More Player Flags "graphics" folder.               |
+	+----------------------------------------------------------------------------------------------------------------------------+
+	| Edit the "gameVersion": value in mod_info.json to make MPF work with different game versions.                              |
+	+----------------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,8 @@
+{
+	"id":"Vexlia_Terra_Invicta_PF", # internal id
+	"name":"Terra Invicta Player Flags", # displayed to the player
+    "author": "Vexlia",
+	"version":"1.0 Release",
+	"description":"Factions logos from strategy game Terra Invicta translated into Player Faction flags. With two variants for each Logo: with original colors and with Player Faction Colors",
+	"gameVersion":"0.98a",
+}
