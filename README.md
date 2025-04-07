@@ -1,5 +1,5 @@
-Because original files come from licenced game (Terra Invicta) and defended under copyright laws, my mod distributed solely for free.
+Original files come from Terra Invicta and defended under copyright laws. Mod is distributed for free, and available only because of favorable position of Pavonis interactive towards modders.  
 
-If you deside to use this mod files in another mod, you should credit mod author (me - Vexlia) and Terra Invicta, as well as provide link to mod page.
+I don't claim any licence or oficial permision over mod materials from Pavonis Interactive.
 
-If you got some reason to contact me, I have BlueSky page: @vexlia-artist.bsky.social
+If you got some reason to contact me, I have BlueSky page: @vexlia-artist.bsky.social or email vexlia.artist@gmail.com
