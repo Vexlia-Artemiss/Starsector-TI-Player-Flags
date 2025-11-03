@@ -3,7 +3,7 @@
 	"name":"Terra Invicta Player Flags", # displayed to the player
     "author": "Vexlia Artemiss",
 	"utility": false,
-	"version":"1.0 Initial Release",
+	"version":"2.0 Index Update",
 	"description":"Factions logos from strategy game Terra Invicta expanded into Player Faction flags.",
-	"gameVersion":"0.98a",
+	"gameVersion":"0.98a-RC8",
 }
