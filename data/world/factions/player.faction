@@ -42,6 +42,37 @@
 			"logo":"graphics/factions/original_colors/Servants_Flag.png",
 			"crest":"graphics/factions/original_colors/Servants_Crest.png"
 		},	
+		
+		#November 2025 Update	
+		{
+			"logo":"graphics/factions/update/Academy_Alt1_Flag.png",
+			"crest":"graphics/factions/update/Academy_Alt1_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/update/Academy_Alt2_Flag.png",
+			"crest":"graphics/factions/update/Academy_Alt2_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/update/Hydra_Special_Forces_Flag.png",
+			"crest":"graphics/factions/update/Hydra_Special_Forces_Crest.png"
+		},
+		{
+			"logo":"graphics/factions/update/Exodus_Alt_Flag.png",
+			"crest":"graphics/factions/update/Exodus_Alt_Crest.png"
+		},	
+		{
+			"logo":"graphics/factions/update/Resistance_First_Flag.png",
+			"crest":"graphics/factions/update/Resistance_First_Crest.png"
+		},	
+				{
+			"logo":"graphics/factions/update/United_Resistance_Flag.png",
+			"crest":"graphics/factions/update/United_Resistance_Crest.png"
+		},	
+		{
+			"logo":"graphics/factions/update/Servants_of_Protectorate_Flag.png",
+			"crest":"graphics/factions/update/Servants_of_Protectorate_Crest.png"
+		},	
+		
 	],
 }
 
